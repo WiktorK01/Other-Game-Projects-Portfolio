@@ -17,4 +17,4 @@ Here are some other games I've worked on (that have a public repository). Most g
 - **Chick Chase:** A simple High Score based game-jam game, tested the movement for "Balldyseus" here. I acted as lead designer & programmer
 - **Opossum Ops:** Similar to Chick Chase but more level-oriented rather than high-score based.
 - **Sling Bee:** Made for EGD x SGDA's weekend game jam. Won the Jam's Usability & Accessibility Award. I acted as the lead designer, though didn't do much for the programming.
-- **Refold:** Winner of "Best OVerall GSP Game" for EGD's Game Studio Program. I acted as the main designer and audio developer.
+- **Refold:** Winner of "Best Overall GSP Game" for EGD's Game Studio Program. I acted as the main designer and audio developer.
